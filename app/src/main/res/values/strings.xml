@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btnSetMarker">SetMarker</string>
+    <string name="swGPS">GPS</string>
+    <string name="txtvLength">Length</string>
+    <string name="txtvWidth">Width</string>
+</resources>
